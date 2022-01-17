@@ -1,7 +1,7 @@
 name: GitHub Basic Actions
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  GitHub-Basic-Actions:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
