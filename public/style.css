@@ -34,16 +34,30 @@ h1 {
 }
 
 .nav-item {
-    font-size: 1.1em;
+    font-size: 1.2em;
     margin: 0 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.nav-item:hover {
+    color: aqua;
 }
 
 .content {
     height: 78vh;
-    background-color: aqua;
+    background-color: rgb(157, 235, 235);
 }
 
 .footer {
     height: 10vh;
     background-color: #333;
+}
+
+svg {
+    margin: 0 5px;
 }
