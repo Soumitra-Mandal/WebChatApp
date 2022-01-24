@@ -1,2 +1,1 @@
-var title = document.getElementsByTagName("title")
-title.innerHTML = "Chat APP"
+console.log(window.innerWidth)
