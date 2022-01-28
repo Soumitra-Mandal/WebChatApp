@@ -95,7 +95,6 @@ svg {
     border: solid 0.5px aqua;
     width: 150px;
     height: 70px;
-    background-image: url("../images/1.jpg");
     background-size: cover;
 }
 
