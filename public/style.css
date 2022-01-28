@@ -118,29 +118,29 @@ svg {
 }
 
 #p1 {
-    background-image: url("../images/p1.jpg");
+    background-image: url("./images/p1.jpg");
 }
 
 #p2 {
-    background-image: url("../images/p2.jpg");
+    background-image: url("./images/p2.jpg");
 }
 
 #p3 {
-    background-image: url("../images/p3.jpg");
+    background-image: url("./images/p3.jpg");
 }
 
 #p4 {
-    background-image: url("../images/p4.jpg");
+    background-image: url("./images/p4.jpg");
 }
 
 #p5 {
-    background-image: url("../images/p5.jpg");
+    background-image: url("./images/p5.jpg");
 }
 
 #p6 {
-    background-image: url("../images/p6.jpg");
+    background-image: url("./images/p6.jpg");
 }
 
 #p7 {
-    background-image: url("../images/p7.jpg");
+    background-image: url("./images/p7.jpg");
 }
